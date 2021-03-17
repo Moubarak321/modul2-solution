@@ -1,0 +1,39 @@
+*{
+	box-sizing: border-box;
+}
+h1{
+	text-align: center;
+}
+/*#abc{
+	border: none;
+	margin-bottom: 20px;
+
+}*/
+
+div {
+	width: 250px;
+	border: 1px solid black;
+	margin-bottom: 20px;
+	
+
+	
+	
+
+}
+div>div{
+	text-align: center;
+	width: 50%;
+
+	position: static;
+	
+	float: right;
+	
+}
+#box1{
+	position: relative;
+
+	clear:right; 	
+	}
+
+
+
